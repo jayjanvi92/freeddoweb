@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/mofhvh53uhsj/public_html/
+    - export DEPLOYPATH=/home/mofhvh53uhsj/public_html/freeddoweb.ipruilovemyfamily.com
     - /bin/cp * $DEPLOYPATH
